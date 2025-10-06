@@ -9,7 +9,7 @@ const Menu = () => (
             <p>Our restaurant also gives dishes from various places.</p>
         </div>
         <div>
-            <h4>Alfredo Pasta</h4>
+            <h4>Alfredo  Pasta</h4>
             <p>Going global we have an italian special pasta as well.</p>
         </div>
     </section>
